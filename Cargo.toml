@@ -27,7 +27,7 @@ autobenches = false
 description = "Generic (S)NARK verifier for Rust, halo2, and EVM. This is a fork of PSE's version."
 readme = "README.md"
 license = "MIT"
-repository = "https://github.com/axiom-crypto/snark-verifier"
+repository = "https://github.com/Case-Traders/snark-verifier"
 
 [features]
 default = [
